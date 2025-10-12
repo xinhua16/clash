@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,cool18.com
 DOMAIN-SUFFIX,ppy.369.cyou
 #Docker Hub
 DOMAIN-SUFFIX,hub.docker.com
+#草榴社区
+DOMAIN-SUFFIX,t66y.com
+#维基百科
+DOMAIN-SUFFIX,wikipedia.org
