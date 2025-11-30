@@ -9,3 +9,11 @@ DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,t66y.com
 #维基百科
 DOMAIN-SUFFIX,wikipedia.org
+#油猴插件
+DOMAIN-SUFFIX,greasyfork.org
+#油猴插件9kg
+DOMAIN-SUFFIX,sleazyfork.org
+#google账号内账户管理接口
+DOMAIN-SUFFIX,c.gle
+#其他
+DOMAIN-SUFFIX,linux.do
